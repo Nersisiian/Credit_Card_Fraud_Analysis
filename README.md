@@ -61,6 +61,8 @@ jupyter notebook
 
 4. Open notebooks/EDA.ipynb and run all cells.
 
+---
+
 📊 Example Visualizations
 Class Distribution
 
@@ -71,15 +73,18 @@ Correlation Heatmap
 Transaction Amount Boxplot
 
 (example)
+
 🔧 Tools & Libraries
 Python 3
 Pandas, NumPy
 Matplotlib, Seaborn
 Jupyter Notebook
+
 📈 Outcome
 Understanding data structure, distribution, and correlations
 Highlighted anomalies and insights in fraudulent transactions
 Ready dataset for further modeling / machine learning (fraud detection)
+
 📝 Author
 
 Nersisiian – Data Science & Machine Learning Enthusiast
