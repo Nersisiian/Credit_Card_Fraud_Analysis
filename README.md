@@ -58,7 +58,9 @@ pip install -r requirements.txt
 
 3. Launch Jupyter Notebook:
 jupyter notebook
+
 4. Open notebooks/EDA.ipynb and run all cells.
+
 📊 Example Visualizations
 Class Distribution
 
@@ -80,4 +82,4 @@ Highlighted anomalies and insights in fraudulent transactions
 Ready dataset for further modeling / machine learning (fraud detection)
 📝 Author
 
-Your Name – Data Science & Machine Learning Enthusiast
+Nersisiian – Data Science & Machine Learning Enthusiast
